@@ -65,7 +65,7 @@ T₀ = 25.0               # Reference temperature
 
 dt = 1.0e-4
 
-Nt = 50
+Nt = 100000
 
 # ----------------------------------------------------------
 # Boundary temperatures
